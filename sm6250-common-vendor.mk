@@ -679,6 +679,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib/sensors.ssc.so:$(TARGET_COPY_OUT_VENDOR)/lib/sensors.ssc.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib/soundfx/libasphere.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libasphere.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib/soundfx/libmisoundfx.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libmisoundfx.so \
+    vendor/xiaomi/sm6250-common/proprietary/vendor/lib/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcbassboost.so \
+    vendor/xiaomi/sm6250-common/proprietary/vendor/lib/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcreverb.so \
+    vendor/xiaomi/sm6250-common/proprietary/vendor/lib/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcvirt.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib/soundfx/libqcompostprocbundle.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcompostprocbundle.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib/soundfx/libqcomvisualizer.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcomvisualizer.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib/soundfx/libqcomvoiceprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libqcomvoiceprocessing.so \
@@ -1158,6 +1161,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/soundfx/libqcompostprocbundle.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcompostprocbundle.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/soundfx/libqcomvisualizer.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcomvisualizer.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/soundfx/libqcomvoiceprocessing.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcomvoiceprocessing.so \
+    vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/soundfx/libqcbassboost.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcbassboost.so \
+    vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/soundfx/libqcreverb.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcreverb.so \
+    vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/soundfx/libqcvirt.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libqcvirt.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/soundfx/libspatialaudio.so:$(TARGET_COPY_OUT_VENDOR)/lib64/soundfx/libspatialaudio.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/unnhal-acc-adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unnhal-acc-adreno.so \
     vendor/xiaomi/sm6250-common/proprietary/vendor/lib64/unnhal-acc-common.so:$(TARGET_COPY_OUT_VENDOR)/lib64/unnhal-acc-common.so \
